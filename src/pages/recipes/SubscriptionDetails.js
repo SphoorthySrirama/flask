@@ -13,4 +13,4 @@ const SubscriptionDetails = ({ subscription }) => {
   );
 };
 
-export default SubscriptionDetails;
+ export default SubscriptionDetails;
